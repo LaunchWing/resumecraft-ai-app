@@ -1,0 +1,13 @@
+/* Custom CSS styles */
+body {
+    font-family: 'Inter', sans-serif;
+}
+header {
+    border-bottom: 1px solid #e2e8f0;
+}
+button {
+    transition: background-color 0.2s ease-in-out;
+}
+button:hover {
+    filter: brightness(0.9);
+}
